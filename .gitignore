@@ -1,0 +1,11 @@
+# Excel temporary files
+~$*
+*.tmp
+*.bak
+
+# VBA Backup files
+*.xla
+*.xlam
+*.xlsb
+*.xlsm
+*.xlsx
